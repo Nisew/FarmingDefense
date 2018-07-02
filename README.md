@@ -1,6 +1,6 @@
 # Farming Defense
 
-![]()
+![](https://github.com/Nisew/FarmingDefense/blob/master/Media/Title.png)
 
 ## Main features
 * 2D tower defense game with custom art!
@@ -11,7 +11,9 @@
 ## Contact Information
 Programmer Fernando Diago Llorente: fernandodl2435@gmail.com
 
-Artist Laura Cobo Ruiz: 
+Artist Laura Cobo Ruiz:
+* Github: https://github.com/LauraCoboRuiz
+* Mail: 
 
 ## License
 
