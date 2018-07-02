@@ -1,6 +1,6 @@
 # Farming Defense
 
-![]()
+![](https://github.com/Nisew/FarmingDefense/blob/master/Media/Title.png)
 
 ## Main features
 * 2D tower defense game with custom art!
